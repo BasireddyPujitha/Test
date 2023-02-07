@@ -1,0 +1,32 @@
+Technical Assessment Yahoo PE Team 
+
+Answer the below questions within this sheet with as much description as needed.
+Time : 60 mins 
+
+Name : 		BASIREDDY PUJITHA	
+
+Email:  basireddy.pujitha1@wipro.com
+
+
+Docker
+How do you create a docker container from an image? 
+Answer:By using docker container image command we can create
+Suppose you have 3 containers running and out of these, you wish to access one of them. How do you access a running container?
+Answer:with the help of the exec command we can access a running container.
+Git
+What is the process for reverting a commit that has already been pushed and made public?
+Answer:Firstly go the history by going to use commit command and there you can select the revert commit and before reverting once we need to check.
+AWS (Amazon Web Services)
+A Solutions Architect is designing a web application that will serve static content in an Amazon S3 (Service 3) bucket and dynamic content hosted on Amazon EC2 instances behind an Application Load Balancer (ALB). The application will use Amazon CloudFront to make the content available to the end users. Explain in detail the services, Security, authentication, and other configurations that the solution architect must do to make the static/dynamic content available to the user.
+Answer:S3 is a object storage service with stores the data and ALB is service that balances the load across the traffic
+
+Linux:
+Do you know how the shell command ‘find’ works?  If you did not have access to this
+how would you script this same functionality?  
+Answer:used to search and point the list of files and directories and it is also used to find the files by users file types and sizes.It helps in the way to search by filename also.
+   
+What is shell script and list out types of Linux shell? To write a shell program to count no of characters, lines, and words in a file?
+  Answer:It mainly allows us to give commands to kernel and get the response and in shell we can also execute the programs. Types are C shell,Z shell, Korn shell. To count we use wc - command.
+
+Finally, you are also required to Upload your solutions to respective GitHub and make it public . Share the repository URL Below
+ Answer: I have created the repository but unable to upload the solution.
